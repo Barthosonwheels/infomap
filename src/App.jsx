@@ -4,6 +4,7 @@ import pointsData from './locations.json';
 
 function App() {
   console.group(pointsData)
+  console.log("yooo")
   return (
     <MapContainer center={[0, 0]} zoom={2} style={{ height: '400px', width: '800px' }}>
       <TileLayer

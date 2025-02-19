@@ -2,7 +2,7 @@ import React from 'react';
 import { MapContainer, TileLayer, CircleMarker, Popup } from 'react-leaflet';
 import L from 'leaflet';
 import pointsData from './locations.json';
-
+import MediaCard from './MediaCard';  // Adjust the import path as needed
 // Define the bounds for Europe
 const europeBounds = L.latLngBounds(
   L.latLng(35, -10), // Southwest corner 
@@ -33,17 +33,18 @@ function App() {
           fillColor="red"
           fillOpacity={1}
         >
-          <Popup>
-            <h3>{point.name}</h3>
-            <p>{point.description}</p>
-            <img 
-              src={point.logo} 
-              alt={`${point.name} logo`} 
-              style={{ width: '100px', height: '100px', objectFit: 'cover', marginTop: '10px' }} 
-            />
-            <p>
-              <a href={point.link} target="_blank" rel="noopener noreferrer">Visit Website</a>
-            </p>
+          <Popup
+            autoPan={true}
+            maxWidth={200}
+            height={80}
+            keepInView={true}
+          >
+          <MediaCard
+            name={point.name}
+            description={point.description}
+            logo={point.logo}
+            link={point.link}
+          />
           </Popup>
         </CircleMarker>
       ))}

@@ -1,75 +1,94 @@
 {
-    "points": [
-      {
-        "id": 1,
-        "name": "Point Alpha",
-        "latitude": 48.8566,
-        "longitude": 2.3522,
-        "description": "The heart of Paris"
-      },
-      {
-        "id": 2,
-        "name": "Point Beta",
-        "latitude": 34.0522,
-        "longitude": -118.2437,
-        "description": "Downtown Los Angeles"
-      },
-      {
-        "id": 3,
-        "name": "Point Gamma",
-        "latitude": 51.5074,
-        "longitude": 0.1278,
-        "description": "Central London"
-      },
-      {
-        "id": 4,
-        "name": "Point Delta",
-        "latitude": 40.7128,
-        "longitude": -74.0060,
-        "description": "Midtown Manhattan"
-      },
-      {
-        "id": 5,
-        "name": "Point Epsilon",
-        "latitude": 37.7749,
-        "longitude": -122.4194,
-        "description": "Financial District, San Francisco"
-      },
-      {
-        "id": 6,
-        "name": "Point Zeta",
-        "latitude": -33.8688,
-        "longitude": 151.2093,
-        "description": "Sydney Harbour"
-      },
-      {
-        "id": 7,
-        "name": "Point Eta",
-        "latitude": 35.6895,
-        "longitude": 139.6917,
-        "description": "Shibuya Crossing, Tokyo"
-      },
-      {
-        "id": 8,
-        "name": "Point Theta",
-        "latitude": -23.5505,
-        "longitude": -46.6333,
-        "description": "Avenida Paulista, São Paulo"
-      },
-      {
-        "id": 9,
-        "name": "Point Iota",
-        "latitude": 41.9028,
-        "longitude": 12.4964,
-        "description": "Colosseum, Rome"
-      },
-      {
-        "id": 10,
-        "name": "Point Kappa",
-        "latitude": 55.7558,
-        "longitude": 37.6173,
-        "description": "Red Square, Moscow"
-      }
-    ]
-  }
-  
+  "points": [
+    {
+      "id": 1,
+      "name": "Contre Attaque",
+      "latitude": 47.218102,
+      "longitude": -1.5528,
+      "description": "Since 2012, we have been offering you independent and free information, in service of ongoing mobilizations. We have published thousands of articles, investigations, visuals, photos, and analyses. We have distributed magazines, stickers, and various tools in a self-produced manner, without advertising or subsidies.",
+      "logo": "https://api.tipeee.com/cache/20220731233107/media/200/200/zoom/1766512/2022073162e6f49b7b855.jpeg",
+      "link": "https://contre-attaque.net/"
+    },
+    {
+      "id": 2,
+      "name": "Point Beta",
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "description": "Downtown Los Angeles",
+      "logo": "https://api.tipeee.com/cache/20220731233107/media/200/200/zoom/1766512/2022073162e6f49b7b855.jpeg",
+      "link": "https://contre-attaque.net/"
+    },
+    {
+      "id": 3,
+      "name": "Point Gamma",
+      "latitude": 51.5074,
+      "longitude": 0.1278,
+      "description": "Central London",
+      "logo": "https://api.tipeee.com/cache/20220731233107/media/200/200/zoom/1766512/2022073162e6f49b7b855.jpeg",
+      "link": "https://contre-attaque.net/"
+    },
+    {
+      "id": 4,
+      "name": "Point Delta",
+      "latitude": 40.7128,
+      "longitude": -74.0060,
+      "description": "Midtown Manhattan",
+      "logo": "https://api.tipeee.com/cache/20220731233107/media/200/200/zoom/1766512/2022073162e6f49b7b855.jpeg",
+      "link": "https://contre-attaque.net/"
+    },
+    {
+      "id": 5,
+      "name": "Point Epsilon",
+      "latitude": 37.7749,
+      "longitude": -122.4194,
+      "description": "Financial District, San Francisco",
+      "logo": "https://api.tipeee.com/cache/20220731233107/media/200/200/zoom/1766512/2022073162e6f49b7b855.jpeg",
+      "link": "https://contre-attaque.net/"
+    },
+    {
+      "id": 6,
+      "name": "Point Zeta",
+      "latitude": -33.8688,
+      "longitude": 151.2093,
+      "description": "Sydney Harbour",
+      "logo": "https://api.tipeee.com/cache/20220731233107/media/200/200/zoom/1766512/2022073162e6f49b7b855.jpeg",
+      "link": "https://contre-attaque.net/"
+    },
+    {
+      "id": 7,
+      "name": "Point Eta",
+      "latitude": 35.6895,
+      "longitude": 139.6917,
+      "description": "Shibuya Crossing, Tokyo",
+      "logo": "https://api.tipeee.com/cache/20220731233107/media/200/200/zoom/1766512/2022073162e6f49b7b855.jpeg",
+      "link": "https://contre-attaque.net/"
+    },
+    {
+      "id": 8,
+      "name": "Point Theta",
+      "latitude": -23.5505,
+      "longitude": -46.6333,
+      "description": "Avenida Paulista, São Paulo",
+      "logo": "https://api.tipeee.com/cache/20220731233107/media/200/200/zoom/1766512/2022073162e6f49b7b855.jpeg",
+      "link": "https://contre-attaque.net/"
+    },
+    {
+      "id": 9,
+      "name": "Point Iota",
+      "latitude": 41.9028,
+      "longitude": 12.4964,
+      "description": "Colosseum, Rome",
+      "logo": "https://api.tipeee.com/cache/20220731233107/media/200/200/zoom/1766512/2022073162e6f49b7b855.jpeg",
+      "link": "https://contre-attaque.net/"
+    },
+    {
+      "id": 10,
+      "name": "Point Kappa",
+      "latitude": 55.7558,
+      "longitude": 37.6173,
+      "description": "Red Square, Moscow",
+      "logo": "https://api.tipeee.com/cache/20220731233107/media/200/200/zoom/1766512/2022073162e6f49b7b855.jpeg",
+      "link": "https://contre-attaque.net/"
+    }
+  ]
+}

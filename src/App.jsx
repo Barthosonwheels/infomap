@@ -24,8 +24,16 @@ function App() {
       {pointsData.points.map((point) => (
         <Marker key={point.id} position={[point.latitude, point.longitude]}>
           <Popup>
+            <img 
+              src={point.logo} 
+              alt={`${point.name} logo`} 
+              style={{ width: '100px', height: '100px', objectFit: 'cover', marginTop: '10px' }} 
+            />
             <h3>{point.name}</h3>
             <p>{point.description}</p>
+            <p>
+              <a href={point.link} target="_blank" rel="noopener noreferrer">Visit Website</a>
+            </p>
           </Popup>
         </Marker>
       ))}

@@ -13,22 +13,23 @@ function App() {
   return (
     <MapContainer 
       center={[50, 10]} 
-      zoom={3} 
+      zoom={4} 
       style={{ height: '500px', width: '500px' }}
       maxBounds={europeBounds}
       maxBoundsViscosity={1.0}
     >
-      <TileLayer
-        url="https://tiles.stadiamaps.com/tiles/alidade_smooth_dark/{z}/{x}/{y}{r}.png"
-        attribution='&copy; <a href="https://stadiamaps.com/">Stadia Maps</a>, &copy; <a href="https://openmaptiles.org/">OpenMapTiles</a> &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors'
-        maxZoom={20}
-      />
+<TileLayer
+  url="https://api.maptiler.com/maps/dataviz-dark/{z}/{x}/{y}.png?key=XRbKztMHRBdegdFg4Zpf"
+  attribution='<a href="https://www.maptiler.com/copyright/" target="_blank">&copy; MapTiler</a> <a href="https://www.openstreetmap.org/copyright" target="_blank">&copy; OpenStreetMap contributors</a>'
+  maxZoom={20}
+/>
+
       {pointsData.points.map((point) => (
         <CircleMarker
           key={point.id}
           center={[point.latitude, point.longitude]}
-          radius={3}  // Adjust the radius as needed
-          color="red"  // Set the color to red
+          radius={5}  // Adjust the radius as needed
+          color="black"  // Set the color to red
           fillColor="red"
           fillOpacity={1}
         >

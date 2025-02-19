@@ -80,6 +80,150 @@
       "description": "Capital of Austria",
       "logo": "https://api.tipeee.com/cache/20220731233107/media/200/200/zoom/1766512/2022073162e6f49b7b855.jpeg",
       "link": "https://contre-attaque.net/"
+    },
+    {
+      "id": 10,
+      "name": "Stockholm",
+      "latitude": 59.3293,
+      "longitude": 18.0686,
+      "description": "Capital of Sweden",
+      "logo": "https://api.tipeee.com/cache/20220731233107/media/200/200/zoom/1766512/2022073162e6f49b7b855.jpeg",
+      "link": "https://contre-attaque.net/"
+    },
+    {
+      "id": 11,
+      "name": "Copenhagen",
+      "latitude": 55.6761,
+      "longitude": 12.5683,
+      "description": "Capital of Denmark",
+      "logo": "https://api.tipeee.com/cache/20220731233107/media/200/200/zoom/1766512/2022073162e6f49b7b855.jpeg",
+      "link": "https://contre-attaque.net/"
+    },
+    {
+      "id": 12,
+      "name": "Oslo",
+      "latitude": 59.9139,
+      "longitude": 10.7522,
+      "description": "Capital of Norway",
+      "logo": "https://api.tipeee.com/cache/20220731233107/media/200/200/zoom/1766512/2022073162e6f49b7b855.jpeg",
+      "link": "https://contre-attaque.net/"
+    },
+    {
+      "id": 13,
+      "name": "Helsinki",
+      "latitude": 60.1699,
+      "longitude": 24.9384,
+      "description": "Capital of Finland",
+      "logo": "https://api.tipeee.com/cache/20220731233107/media/200/200/zoom/1766512/2022073162e6f49b7b855.jpeg",
+      "link": "https://contre-attaque.net/"
+    },
+    {
+      "id": 14,
+      "name": "Warsaw",
+      "latitude": 52.2297,
+      "longitude": 21.0122,
+      "description": "Capital of Poland",
+      "logo": "https://api.tipeee.com/cache/20220731233107/media/200/200/zoom/1766512/2022073162e6f49b7b855.jpeg",
+      "link": "https://contre-attaque.net/"
+    },
+    {
+      "id": 15,
+      "name": "Prague",
+      "latitude": 50.0755,
+      "longitude": 14.4378,
+      "description": "Capital of Czech Republic",
+      "logo": "https://api.tipeee.com/cache/20220731233107/media/200/200/zoom/1766512/2022073162e6f49b7b855.jpeg",
+      "link": "https://contre-attaque.net/"
+    },
+    {
+      "id": 16,
+      "name": "Budapest",
+      "latitude": 47.4979,
+      "longitude": 19.0402,
+      "description": "Capital of Hungary",
+      "logo": "https://api.tipeee.com/cache/20220731233107/media/200/200/zoom/1766512/2022073162e6f49b7b855.jpeg",
+      "link": "https://contre-attaque.net/"
+    },
+    {
+      "id": 17,
+      "name": "Lisbon",
+      "latitude": 38.7223,
+      "longitude": -9.1393,
+      "description": "Capital of Portugal",
+      "logo": "https://api.tipeee.com/cache/20220731233107/media/200/200/zoom/1766512/2022073162e6f49b7b855.jpeg",
+      "link": "https://contre-attaque.net/"
+    },
+    {
+      "id": 18,
+      "name": "Athens",
+      "latitude": 37.9838,
+      "longitude": 23.7275,
+      "description": "Capital of Greece",
+      "logo": "https://api.tipeee.com/cache/20220731233107/media/200/200/zoom/1766512/2022073162e6f49b7b855.jpeg",
+      "link": "https://contre-attaque.net/"
+    },
+    {
+      "id": 19,
+      "name": "Dublin",
+      "latitude": 53.3498,
+      "longitude": -6.2603,
+      "description": "Capital of Ireland",
+      "logo": "https://api.tipeee.com/cache/20220731233107/media/200/200/zoom/1766512/2022073162e6f49b7b855.jpeg",
+      "link": "https://contre-attaque.net/"
+    },
+    {
+      "id": 20,
+      "name": "Manchester",
+      "latitude": 53.4808,
+      "longitude": -2.2426,
+      "description": "Major city in England",
+      "logo": "https://api.tipeee.com/cache/20220731233107/media/200/200/zoom/1766512/2022073162e6f49b7b855.jpeg",
+      "link": "https://contre-attaque.net/"
+    },
+    {
+      "id": 21,
+      "name": "Lyon",
+      "latitude": 45.7640,
+      "longitude": 4.8357,
+      "description": "Third-largest city in France",
+      "logo": "https://api.tipeee.com/cache/20220731233107/media/200/200/zoom/1766512/2022073162e6f49b7b855.jpeg",
+      "link": "https://contre-attaque.net/"
+    },
+    {
+      "id": 22,
+      "name": "Hamburg",
+      "latitude": 53.5511,
+      "longitude": 9.9937,
+      "description": "Second-largest city in Germany",
+      "logo": "https://api.tipeee.com/cache/20220731233107/media/200/200/zoom/1766512/2022073162e6f49b7b855.jpeg",
+      "link": "https://contre-attaque.net/"
+    },
+    {
+      "id": 23,
+      "name": "Milan",
+      "latitude": 45.4642,
+      "longitude": 9.1900,
+      "description": "Second-largest city in Italy",
+      "logo": "https://api.tipeee.com/cache/20220731233107/media/200/200/zoom/1766512/2022073162e6f49b7b855.jpeg",
+      "link": "https://contre-attaque.net/"
+    },
+    {
+      "id": 24,
+      "name": "Barcelona",
+      "latitude": 41.3851,
+      "longitude": 2.1734,
+      "description": "Second-largest city in Spain",
+      "logo": "https://api.tipeee.com/cache/20220731233107/media/200/200/zoom/1766512/2022073162e6f49b7b855.jpeg",
+      "link": "https://contre-attaque.net/"
+    },
+    {
+      "id": 25,
+      "name": "Rotterdam",
+      "latitude": 51.9244,
+      "longitude": 4.4777,
+      "description": "Second-largest city in the Netherlands",
+      "logo": "https://api.tipeee.com/cache/20220731233107/media/200/200/zoom/1766512/2022073162e6f49b7b855.jpeg",
+      "link": "https://contre-attaque.net/"
     }
   ]
 }

@@ -38,9 +38,9 @@ export default function MediaCard({ name, description, logo, link, contact }) {
             <IconButton aria-label="website" href={link} target="_blank" rel="noopener noreferrer" size="small">
                 <LanguageIcon fontSize="5px" />
             </IconButton>
-             <IconButton aria-label="contact" href={`mailto:${contact}`} size="small">
+             {/* <IconButton aria-label="contact" href={`mailto:${contact}`} size="small">
                 <EmailIcon fontSize="5px" />
-            </IconButton>
+            </IconButton> */}
             </Box>
       </Box>
     </Card>

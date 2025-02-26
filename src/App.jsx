@@ -1,24 +1,23 @@
-import React from 'react';
+import React, { useMemo } from 'react';
 import { MapContainer, TileLayer, CircleMarker, Popup } from 'react-leaflet';
 import L from 'leaflet';
 import pointsData from './locations.json';
 import MediaCard from './MediaCard';
 
-// Define the bounds for Europe
-const europeBounds = L.latLngBounds(
-  L.latLng(35, -15),  // Southwest corner
-  L.latLng(60, 40)    // Northeast corner
-);
-
 function App() {
+  const { center, bounds } = useMemo(() => {
+    const points = pointsData.points.map(point => [point.latitude, point.longitude]);
+    const bounds = L.latLngBounds(points);
+    const center = bounds.getCenter();
+    return { center, bounds };
+  }, []);
+
   return (
     <div style={{ height: '100vh', width: '100vw' }}>
       <MapContainer 
-        center={[45, 10]} 
-        zoom={4} 
+        center={center}
+        bounds={bounds}
         style={{ height: '100%', width: '100%' }}
-        maxBounds={europeBounds}
-        maxBoundsViscosity={1.0}
       >
         <TileLayer
           url="https://api.maptiler.com/maps/dataviz-dark/{z}/{x}/{y}.png?key=XRbKztMHRBdegdFg4Zpf"

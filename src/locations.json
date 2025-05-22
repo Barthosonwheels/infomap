@@ -25,13 +25,24 @@
     {
       "id": 3,
       "name": "Alma consulting",
-      "latitude": 48.8627,
-      "longitude": 2.4411,
+      "latitude": 48.850514,
+      "longitude":2.423415,
       "description": "Ingénierie et conseil pour la restauration publique et privée, appui dans la construction et rénovation de bâtiments publics, sur la partie hôtellerie / restauration",
       "category": "Entreprise",
       "logo": "",
       "link": "",
-      "address": "4 rue Dolorès Ibarruri et 66 rue Marceau, Montreuil (Seine-Saint-Denis)"
+      "address": "4 rue Dolorès Ibarruri 93188 Montreuil "
+    },
+    {
+      "id": 4,
+      "name": "Alma consulting",
+      "latitude": 48.852245,
+      "longitude":2.426082,
+      "description": "Ingénierie et conseil pour la restauration publique et privée, appui dans la construction et rénovation de bâtiments publics, sur la partie hôtellerie / restauration",
+      "category": "Entreprise",
+      "logo": "",
+      "link": "",
+      "address": "66 Rue Marceau, 93100 Montreuil"
     }
   ]
 }

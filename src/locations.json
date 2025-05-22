@@ -3,19 +3,19 @@
     {
       "id": 1,
       "name": "CRA Nantes",
-      "latitude": 47.2531,
-      "longitude": -1.5191,
+      "latitude": 47.26733,
+      "longitude": -1.502652,
       "description": "Lieu de construction du CRA de Nantes",
       "category": "CRA",
       "logo": "",
       "link": "",
-      "address": "33 Chemin de la Mainguais, 44300 Nantes"
+      "address": "33 Rue de la Mainguais, 44470 Nantes, France"
     },
     {
       "id": 2,
       "name": "Egis",
-      "latitude": 47.2202,
-      "longitude": -1.5254,
+      "latitude": 47.246771,
+      "longitude": 1.507862,
       "description": "Entreprise d'ingénierie",
       "category": "Maîtrise d'ouvrage",
       "logo": "",

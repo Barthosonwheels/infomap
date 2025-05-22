@@ -2,192 +2,36 @@
   "points": [
     {
       "id": 1,
-      "name": "Contre Attaque",
-      "latitude": 47.218102,
-      "longitude": -1.5528,
-      "description": "Since 2012, we have been offering you independent and free information, in service of ongoing mobilizations.",
-      "logo": "https://api.tipeee.com/cache/20220731233107/media/200/200/zoom/1766512/2022073162e6f49b7b855.jpeg",
-      "link": "https://contre-attaque.net/"
+      "name": "CRA Nantes",
+      "latitude": 47.2531,
+      "longitude": -1.5191,
+      "description": "Lieu de construction du CRA de Nantes",
+      "category": "CRA",
+      "logo": "",
+      "link": "",
+      "address": "33 Chemin de la Mainguais, 44300 Nantes"
     },
     {
       "id": 2,
-      "name": "ak - analyse & kritik",
-      "latitude": 53.5511,
-      "longitude": 9.9937,
-      "description": "Monthly newspaper for left theory and practice",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Ak_Logo_RGB.jpg/1200px-Ak_Logo_RGB.jpg",
-      "link": "https://akweb.de"
+      "name": "Egis",
+      "latitude": 47.2202,
+      "longitude": -1.5254,
+      "description": "Entreprise d'ingénierie",
+      "category": "Maîtrise d'ouvrage",
+      "logo": "",
+      "link": "",
+      "address": "7 Rue de la Rainière, 44000 Nantes"
     },
     {
       "id": 3,
-      "name": "dinamopress",
-      "latitude": 41.9028,
-      "longitude": 12.4964,
-      "description": "Independent online magazine from Italy",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGc6klAHv9mqDjr1TdtmpE0cy6IQ6T9aPnLQ&s",
-      "link": "https://www.dinamopress.it"
-    },
-    {
-      "id": 4,
-      "name": "Radio Onda d'Urto",
-      "latitude": 45.5416,
-      "longitude": 10.2118,
-      "description": "Independent radio station from Brescia, Italy",
-      "logo": "https://www.eterotopia.eu/wp/wp-content/uploads/2022/10/1478-1044-max-1030x728-1.jpg",
-      "link": "https://www.radiondadurto.org"
-    },
-    {
-      "id": 5,
-      "name": "mosaik",
-      "latitude": 48.2082,
-      "longitude": 16.3738,
-      "description": "Online magazine for left politics in Austria",
-      "logo": "https://mosaik-blog.at/wp-content/uploads/2023/12/mosaik-logo-web.svg",
-      "link": "https://mosaik-blog.at"
-    },
-    {
-      "id": 6,
-      "name": "Lêgerîn Magazine",
-      "latitude": 50.8503,
-      "longitude": 4.3517,
-      "description": "International magazine on Kurdish issues",
-      "logo": "https://pbs.twimg.com/profile_images/1633797460236566529/PIO6nxFQ_400x400.jpg",
-      "link": "https://www.revistalegerin.com/en/"
-    },
-    {
-      "id": 7,
-      "name": "PreLom",
-      "latitude": 46.0569,
-      "longitude": 14.5058,
-      "description": "Independent newspaper from Ljubljana, Slovenia",
-      "logo": "https://prelom.je/static/img/logo-large.png?1",
-      "link": "https://prelom.je/"
-    },
-    {
-      "id": 8,
-      "name": "Medya News",
-      "latitude": 50.8503,
-      "longitude": 4.3517,
-      "description": "Independent news agency focusing on Middle East",
-      "logo": "https://pbs.twimg.com/profile_images/1506228104712368131/5qvSmc-T_400x400.jpg",
-      "link": "https://medyanews.net/"
-    },
-    {
-      "id": 9,
-      "name": "Non Una Di Meno",
-      "latitude": 41.9028,
-      "longitude": 12.4964,
-      "description": "Italian feminist movement and observatory",
-      "logo": "https://osservatorionazionale.nonunadimeno.net/wp-content/themes/wp-bootstrap-starter-child-ossnudm/images/nudm_logo_rettangolare.png",
-      "link": "https://osservatorionazionale.nonunadimeno.net"
-    },
-    {
-      "id": 10,
-      "name": "Lista demokratičnega študentstva",
-      "latitude": 46.0569,
-      "longitude": 14.5058,
-      "description": "Youth socialist organization from Slovenia",
+      "name": "Alma consulting",
+      "latitude": 48.8627,
+      "longitude": 2.4411,
+      "description": "Ingénierie et conseil pour la restauration publique et privée, appui dans la construction et rénovation de bâtiments publics, sur la partie hôtellerie / restauration",
+      "category": "Entreprise",
       "logo": "",
-      "link": "https://www.instagram.com/listademokraticnegastudentstva/"
-    },
-    {
-      "id": 11,
-      "name": "La directa",
-      "latitude": 41.3879,
-      "longitude": 2.1690,
-      "description": "Independent news outlet from Països Catalans",
-      "logo": "https://patillimona.net/wp-content/uploads/2019/11/LOGO-DIRECTA-TRANSPARENT-04.png",
-      "link": "https://directa.cat/"
-    },
-    {
-      "id": 12,
-      "name": "TVallespir",
-      "latitude": 42.4927,
-      "longitude": 2.6514,
-      "description": "Local media from Països Catalans",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-HYPx3oUoSxyKVJGRnv2WhF25FC4nlnXEgQ&s",
-      "link": "https://www.instagram.com/televallespir/"
-    },
-    {
-      "id": 13,
-      "name": "Le Poing Montpellier",
-      "latitude": 43.6108,
-      "longitude": 3.8772,
-      "description": "Independent news and activism from Montpellier, France",
-      "logo": "https://pbs.twimg.com/profile_images/1090657580937027584/_Q8FGHbV_400x400.jpg",
-      "link": "https://lepoing.net/"
-    },
-    {
-      "id": 14,
-      "name": "Enquête Critique",
-      "latitude": 46.2044,
-      "longitude": 6.1434,
-      "description": "Independent investigative journalism from France/Switzerland",
-      "logo": "https://enquetecritique.org/local/cache-vignettes/L283xH180/siteon0-21e1a.png?1662128253",
-      "link": "https://enquetecritique.org"
-    },
-    {
-      "id": 15,
-      "name": "Radio LoRa",
-      "latitude": 47.3789,
-      "longitude": 8.5386,
-      "description": "Independent radio station from Zürich, Switzerland",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-wCDgneEonEhSqcxA8ymA7XmLS6oSiYMwuA&s",
-      "link": "https://www.lora.ch"
-    },
-    {
-      "id": 16,
-      "name": "Association for the transmission of the voice of the disadvantaged - Loud Ideas",
-      "latitude": 41.9986,
-      "longitude": 21.4289,
-      "description": "Electronic media from Skopje, Macedonia",
-      "logo": "",
-      "link": "mailto:glasniidei@gmail.com"
-    },
-    {
-      "id": 17,
-      "name": "Контра кадар, Контра библиотека, Ponder",
-      "latitude": 41.0333,
-      "longitude": 21.3333,
-      "description": "Independent political and cultural initiatives from Bitola, Macedonia",
-      "logo": "",
-      "link": "mailto:kontra_bitola@riseup.net"
-    },
-    {
-      "id": 18,
-      "name": "United for Climate Justice",
-      "latitude": 50.8503,
-      "longitude": 4.3517,
-      "description": "International climate justice movement",
-      "logo": "",
-      "link": "https://ucj.global"
-    },
-    {
-      "id": 19,
-      "name": "Rettet die Naturvölker",
-      "latitude": 54.3233,
-      "longitude": 10.1333,
-      "description": "International organization for indigenous rights",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKTW3y2XkYX463XtU4OcbLqmvBSdd9CcTnag&s",
-      "link": "https://naturvoelker.de/"
-    },
-    {
-      "id": 20,
-      "name": "Turning Point Magazine",
-      "latitude": 50.8503,
-      "longitude": 4.3517,
-      "description": "European magazine on social and political issues",
-      "logo": "https://turningpointmag.org/wp-content/uploads/2024/11/picture_profile-150x150.jpg",
-      "link": "https://www.turningpointmag.org"
-    },
-    {
-      "id": 21,
-      "name": "L'Offensive",
-      "latitude": 50.6333,
-      "longitude": 3.0667,
-      "description": "Environmental and social activism from France",
-      "logo": "https://offensive.eco/wp-content/uploads/2021/10/cropped-logo_offensive_vert_header-150x150.png",
-      "link": "https://offensive.eco/"
+      "link": "",
+      "address": "4 rue Dolorès Ibarruri et 66 rue Marceau, Montreuil (Seine-Saint-Denis)"
     }
   ]
 }

@@ -43,8 +43,8 @@ function App() {
               <MediaCard
                 name={point.name}
                 description={point.description}
-                logo={point.logo}
-                link={point.link}
+                category={point.category}
+                address={point.address}
               />
             </Popup>
           </CircleMarker>
